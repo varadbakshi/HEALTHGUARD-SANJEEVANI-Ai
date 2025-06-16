@@ -113,8 +113,8 @@ Make sure your model .sav files are inside saved_models/
 💬 Feedback or Suggestions?
 Feel free to open an Issue or connect via:
 
-📧 Email: varadbakshi@gmail.com
-🔗 LinkedIn: linkedin.com/in/varadbakshi
+📧 Email: varadbakshi1@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/varad-bakshi-🇮🇳-3a03831b5
 
 🌱 "Bridging AI with Ayurveda – a smarter, healthier tomorrow."
 🛑 This project is proprietary and not open-sourced. All rights reserved to Varad Bakshi (VBHARAT AI).
