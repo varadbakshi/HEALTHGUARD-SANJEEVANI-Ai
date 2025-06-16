@@ -23,7 +23,6 @@ This solution bridges the gap between **modern diagnosis** and **traditional hea
 - Provide local doctor recommendations using geolocation
 - Offer guided yoga, pranayama, and diet plans per user profile
 
----
 
  🧠 Features
 
@@ -88,13 +87,14 @@ Multi-modal health empowers users to act
 Geolocation makes it action-oriented, not just theoretical
 
 🧑‍💻 Developed & Presented By
-Er. Varad Vijay Bakshi (Lead Developer & Architect)
 
-Er. Atharva Arun Kadam (Sanjeevani System Developer)
+Er. Varad Vijay Bakshi 
 
-Er. Aryan Mahesh Lad (Frontend & Model Trainer)
+Er. Atharva Arun Kadam 
 
-Er. Prathmesh Prashant Vhatkar (Doctor Recommender & Testing)
+Er. Aryan Mahesh Lad 
+
+Er. Prathmesh Prashant Vhatkar 
 
 HealthGuard/
 │
