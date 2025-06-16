@@ -4,7 +4,7 @@ _Your Intelligent Companion for Disease Prediction & Holistic Healing_
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-blue.svg)
 ![Python](https://img.shields.io/badge/Language-Python-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 ---
 
@@ -117,3 +117,5 @@ Feel free to open an Issue or connect via:
 🔗 LinkedIn: linkedin.com/in/varadbakshi
 
 🌱 "Bridging AI with Ayurveda – a smarter, healthier tomorrow."
+🛑 This project is proprietary and not open-sourced. All rights reserved to Varad Bakshi (VBHARAT AI).
+
